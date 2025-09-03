@@ -1,0 +1,12 @@
+{
+  "name": "qtplayer",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "ffmpeg"
+    },
+    {
+      "name": "qt5-base"
+    }
+  ]
+}
